@@ -1,0 +1,51 @@
+Order ID,Date,Region,Salesperson,Product,Category,Units Sold,Unit Price,Total Revenue,Discount (%),Net Revenue,Customer Segment,Channel
+1001,2024-01-03,North,Alice Johnson,Wireless Headphones,Electronics,12,89.99,1079.88,5,1025.89,B2C,Online
+1002,2024-01-05,South,Bob Martinez,Office Chair,Furniture,3,349.00,1047.00,10,942.30,B2B,Direct
+1003,2024-01-07,East,Carol Singh,Python Programming Book,Books,25,49.99,1249.75,0,1249.75,B2C,Online
+1004,2024-01-10,West,David Lee,Standing Desk,Furniture,2,599.00,1198.00,15,1018.30,B2B,Direct
+1005,2024-01-12,North,Alice Johnson,USB-C Hub,Electronics,40,34.99,1399.60,0,1399.60,B2C,Online
+1006,2024-01-15,South,Bob Martinez,Noise Cancelling Earbuds,Electronics,8,129.99,1039.92,5,987.92,B2C,Retail
+1007,2024-01-18,East,Carol Singh,Project Management Book,Books,18,39.99,719.82,0,719.82,B2C,Online
+1008,2024-01-20,West,David Lee,Ergonomic Keyboard,Electronics,15,79.99,1199.85,10,1079.87,B2B,Direct
+1009,2024-01-22,North,Emma Chen,Bookshelf,Furniture,5,189.00,945.00,0,945.00,B2C,Online
+1010,2024-01-25,South,Frank Obi,Smartwatch,Electronics,6,249.99,1499.94,5,1424.94,B2C,Retail
+1011,2024-02-01,East,Carol Singh,Data Science Book,Books,30,54.99,1649.70,0,1649.70,B2C,Online
+1012,2024-02-03,West,David Lee,Monitor 27",Electronics,4,329.99,1319.96,10,1187.96,B2B,Direct
+1013,2024-02-06,North,Alice Johnson,Mechanical Keyboard,Electronics,10,119.99,1199.90,0,1199.90,B2C,Online
+1014,2024-02-08,South,Bob Martinez,Filing Cabinet,Furniture,4,229.00,916.00,10,824.40,B2B,Direct
+1015,2024-02-10,East,Emma Chen,Tablet Stand,Electronics,22,24.99,549.78,0,549.78,B2C,Online
+1016,2024-02-13,West,Frank Obi,Leadership Book,Books,14,44.99,629.86,0,629.86,B2C,Retail
+1017,2024-02-15,North,Alice Johnson,Webcam HD,Electronics,18,69.99,1259.82,5,1196.83,B2B,Direct
+1018,2024-02-18,South,Bob Martinez,Desk Lamp,Furniture,20,49.99,999.80,0,999.80,B2C,Online
+1019,2024-02-20,East,Carol Singh,Python Advanced Book,Books,22,59.99,1319.78,0,1319.78,B2C,Online
+1020,2024-02-22,West,David Lee,Conference Speakerphone,Electronics,5,199.99,999.95,15,849.96,B2B,Direct
+1021,2024-03-01,North,Emma Chen,Wireless Mouse,Electronics,35,39.99,1399.65,0,1399.65,B2C,Online
+1022,2024-03-04,South,Frank Obi,Laptop Bag,Furniture,12,89.99,1079.88,5,1025.89,B2C,Retail
+1023,2024-03-06,East,Carol Singh,Finance Book,Books,16,49.99,799.84,0,799.84,B2C,Online
+1024,2024-03-09,West,David Lee,Dual Monitor Arm,Electronics,7,149.99,1049.93,10,944.94,B2B,Direct
+1025,2024-03-12,North,Alice Johnson,Smart Speaker,Electronics,9,99.99,899.91,5,854.91,B2C,Online
+1026,2024-03-14,South,Bob Martinez,Reception Desk,Furniture,1,1299.00,1299.00,20,1039.20,B2B,Direct
+1027,2024-03-17,East,Emma Chen,Coding Bootcamp Book,Books,28,34.99,979.72,0,979.72,B2C,Online
+1028,2024-03-19,West,Frank Obi,Portable SSD,Electronics,14,89.99,1259.86,0,1259.86,B2C,Retail
+1029,2024-03-21,North,Alice Johnson,Video Conferencing Kit,Electronics,3,449.99,1349.97,15,1147.47,B2B,Direct
+1030,2024-03-24,South,Bob Martinez,Office Sofa,Furniture,2,799.00,1598.00,10,1438.20,B2B,Direct
+1031,2024-04-01,East,Carol Singh,Marketing Book,Books,20,44.99,899.80,0,899.80,B2C,Online
+1032,2024-04-03,West,David Lee,Drawing Tablet,Electronics,6,179.99,1079.94,10,971.95,B2B,Direct
+1033,2024-04-06,North,Emma Chen,Bluetooth Speaker,Electronics,11,79.99,879.89,5,835.90,B2C,Online
+1034,2024-04-08,South,Frank Obi,Whiteboard,Furniture,8,129.99,1039.92,0,1039.92,B2B,Direct
+1035,2024-04-10,East,Carol Singh,UX Design Book,Books,17,39.99,679.83,0,679.83,B2C,Online
+1036,2024-04-13,West,David Lee,NAS Storage,Electronics,3,399.99,1199.97,10,1079.97,B2B,Direct
+1037,2024-04-15,North,Alice Johnson,Ring Light,Electronics,13,59.99,779.87,0,779.87,B2C,Online
+1038,2024-04-18,South,Bob Martinez,Locker Cabinet,Furniture,6,349.00,2094.00,10,1884.60,B2B,Direct
+1039,2024-04-20,East,Emma Chen,Statistics Book,Books,24,54.99,1319.76,0,1319.76,B2C,Online
+1040,2024-04-22,West,Frank Obi,Power Bank,Electronics,30,44.99,1349.70,0,1349.70,B2C,Retail
+1041,2024-05-02,North,Alice Johnson,Laptop Stand,Electronics,19,49.99,949.81,5,902.32,B2C,Online
+1042,2024-05-05,South,Bob Martinez,Boardroom Table,Furniture,1,2499.00,2499.00,20,1999.20,B2B,Direct
+1043,2024-05-07,East,Carol Singh,Cloud Computing Book,Books,21,59.99,1259.79,0,1259.79,B2C,Online
+1044,2024-05-09,West,David Lee,4K Webcam,Electronics,7,149.99,1049.93,10,944.94,B2B,Direct
+1045,2024-05-12,North,Emma Chen,Desk Organiser,Furniture,25,29.99,749.75,0,749.75,B2C,Online
+1046,2024-05-14,South,Frank Obi,True Wireless Earbuds,Electronics,16,99.99,1599.84,5,1519.85,B2C,Retail
+1047,2024-05-17,East,Carol Singh,Agile Book,Books,18,44.99,809.82,0,809.82,B2C,Online
+1048,2024-05-20,West,David Lee,Server Rack,Electronics,1,1799.00,1799.00,15,1529.15,B2B,Direct
+1049,2024-05-22,North,Alice Johnson,Streaming Mic,Electronics,10,89.99,899.90,5,854.91,B2C,Online
+1050,2024-05-25,South,Bob Martinez,Ergonomic Chair,Furniture,4,599.00,2396.00,10,2156.40,B2B,Direct
